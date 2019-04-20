@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 355 355" style="enable-background:new 0 0 355 355;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#DB3A3A;}
+	.st2{display:inline;fill:none;stroke:#DB3A3A;stroke-width:1.5;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:2;}
+	.st5{fill:#DB3A3A;}
+	.st6{fill:#FFFFFF;}
+</style>
+<g class="st0">
+	<circle id="Ellipse_81_3_" class="st1" cx="166.5" cy="117.5" r="7.5"/>
+	<line class="st2" x1="166.5" y1="117.5" x2="196.5" y2="117.5"/>
+</g>
+<g class="st0">
+	<circle id="Ellipse_81_4_" class="st1" cx="166.5" cy="177.5" r="7.5"/>
+	<line class="st2" x1="166.5" y1="177.5" x2="196.5" y2="177.5"/>
+</g>
+<g id="Ellipse_80_1_" transform="translate(1164 500)">
+	<circle class="st3" cx="-986.47" cy="-322.48" r="176.5"/>
+	<circle class="st4" cx="-986.47" cy="-322.48" r="176"/>
+</g>
+<g>
+	<path class="st5" d="M339.83,237.61c-5.13,0.56-10.14,1.49-15.03,2.76c-5.71,1.48-10.44,5.5-12.9,10.86
+		c-10.58,23.02-29.16,41.6-52.18,52.18c-5.36,2.46-9.38,7.2-10.86,12.9c-1.27,4.88-2.2,9.9-2.76,15.03
+		c-0.7,6.4,4.69,11.78,11.08,11.08c49.23-5.41,88.31-44.5,93.73-93.73C351.62,242.29,346.23,236.91,339.83,237.61z"/>
+	<path class="st6" d="M336.83,234.61c-5.13,0.56-10.14,1.49-15.03,2.76c-5.71,1.48-10.44,5.5-12.9,10.86
+		c-10.58,23.02-29.16,41.6-52.18,52.18c-5.36,2.46-9.38,7.2-10.86,12.9c-1.27,4.88-2.2,9.9-2.76,15.03
+		c-0.7,6.4,4.69,11.78,11.08,11.08c49.23-5.41,88.31-44.5,93.73-93.73C348.62,239.29,343.23,233.91,336.83,234.61z"/>
+	<path class="st5" d="M334.83,232.61c-5.13,0.56-10.14,1.49-15.03,2.76c-5.71,1.48-10.44,5.5-12.9,10.86
+		c-10.58,23.02-29.16,41.6-52.18,52.18c-5.36,2.46-9.38,7.2-10.86,12.9c-1.27,4.88-2.2,9.9-2.76,15.03
+		c-0.7,6.4,4.69,11.78,11.08,11.08c49.23-5.41,88.31-44.5,93.73-93.73C346.62,237.29,341.23,231.91,334.83,232.61z"/>
+	<circle class="st6" cx="335.5" cy="243.5" r="5"/>
+</g>
+</svg>

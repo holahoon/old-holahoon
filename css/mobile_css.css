@@ -1,0 +1,175 @@
+/* screen > 375px mobile */
+@media only screen and (max-width: 500px) {
+  /* Nav */
+  .dk-logo {
+    position: absolute;
+    top: 5%;
+    left: 4.5%;
+    width: 2.7rem;
+  }
+  /* Header */
+  #header {
+    min-height: 100vh;
+    max-height: 100vh;
+    background-size: 5%;
+    background-position-x: 11%;
+    background-position-y: 23%;
+  }
+  #header .to-contact {
+    position: absolute;
+    top: 5.6%;
+    right: 3.5%;
+    font-size: 1.2rem;
+  }
+  #header h2 {
+    top: 25.5%;
+    left: 15%;
+    font-size: 2.2rem;
+  }
+  #header h1 {
+    top: 25%;
+    left: 14.5%;
+    color: #ffffff;
+    -webkit-text-stroke: 2.4px #1a1a1a;
+    text-transform: uppercase;
+    font-size: 3.2rem;
+    font-family: IBMPlexSans-Bold;
+    z-index: 1;
+  }
+  #header h3 {
+    font-size: 1.25rem;
+  }
+  #header h3 span {
+    margin-right: 0.7rem;
+  }
+  #header .h3-1 {
+    top: 28%;
+    left: 44%;
+  }
+  #header .h3-2 {
+    top: 29%;
+    left: 47%;
+  }
+  #header p {
+    top: 45%;
+    left: 15%;
+    width: 80%;
+    text-align: left;
+    line-height: 2rem;
+    font-size: 1.5rem;
+    color: #ffffff;
+  }
+  .header-img-circle .big-circle-red {
+    width: 13rem;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+  }
+  .header-img-circle .big-circle-white {
+    width: 13rem;
+    position: absolute;
+    top: 30.5%;
+    left: 40.5%;
+  }
+  .mobile-side-initial {
+    display: block;
+    position: fixed;
+    left: -34.5%;
+    top: -1.5%;
+    width: 100%;
+    z-index: 0;
+  }
+  .mobile-side-initial img {
+    margin-top: 1.2rem;
+    width: 100%;
+  }
+  /* Project */
+  #project {
+    min-height: 55vh;
+    height: 55vh;
+    max-height: 55vh;
+  }
+  .side-initial {
+    display: none;
+  }
+  .project-flag {
+    /* position: absolute;
+    top: 10%;
+    left: 20%; */
+    width: 50rem;
+    height: 5rem;
+    margin-top: 7%;
+  }
+  .project-list {
+    /* top: 35%;
+    left: 10%; */
+    margin-top: 16%;
+    margin-left: 6%;
+    font-size: 1.3rem;
+  }
+  .project-list li {
+    margin-top: 0.6rem;
+  }
+  .projects {
+    width: 20em;
+  }
+  .projects img {
+    padding: 1.5rem 1rem;
+  }
+  .card h3 {
+    margin-left: 0.5rem;
+    margin-top: 0;
+  }
+  .card h3 a.project-title {
+    font-size: 1.4rem;
+  }
+  .card h3 a.project-github {
+    width: 1.8rem;
+  }
+  .card ul {
+    float: right;
+    margin-top: 0.8rem;
+    margin-right: 0.5rem;
+  }
+  .card li img {
+    width: 1.5rem;
+  }
+  .card p {
+    margin-left: 0.5rem;
+    font-size: 0.9rem;
+  }
+  /* Contact */
+  #contact {
+    min-height: 50vh;
+    max-height: 50vh;
+  }
+  #contact .contact-paragraph {
+    position: relative;
+    left: 32%;
+    top: 10%;
+    width: 60%;
+  }
+  .contact-paragraph p:first-child {
+    font-size: 1.125rem;
+  }
+  .contact-paragraph p:last-child {
+    font-size: 1.125rem;
+  }
+  /* Footer */
+  footer::after {
+    border-width: 6rem 10rem 6rem 10rem;
+  }
+  footer .footer-text a {
+    left: 3%;
+    font-size: 1.2rem;
+  }
+  .span-email a {
+    top: -170%;
+  }
+  .span-resume a {
+    top: -100%;
+  }
+  .span-github a {
+    top: -30%;
+  }
+}
