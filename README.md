@@ -1,3 +1,7 @@
-David Kim - Front End Developer
+# David Kim
+## Front End Developer
 
-A portfolio website developed by David Kim(holahoon) and designed by Jinkyu Kang.
+## About
+This is a portfolio displaying all the projects and works I have done and currently doing.
+This portfolio was designed by Jinkyu Kang and developed by me.
+
