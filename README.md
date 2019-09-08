@@ -4,6 +4,8 @@
 ## [View Live](https://holahoon.github.io/holahoon/)
 
 ## Project overview
+- Personal portfolio version 1 is a portfolio that was built intially to showcase all the projects I have made.
+- A new portfolio is on (https://holahoon.com)[holahoon] 
 - This is a portfolio displaying all the projects and works I have done.
 - This portfolio was designed by [Jin Kyu Kang](https://jinkyukang.com/work) and developed by me.
 
